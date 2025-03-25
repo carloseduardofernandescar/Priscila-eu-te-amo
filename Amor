@@ -1,0 +1,15 @@
+echo '<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mensagem Especial</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 50px; background-color: #f8f9fa; }
+        h1 { color: #ff5733; }
+    </style>
+</head>
+<body>
+    <h1>PRISCILA EU TE AMO</h1>
+</body>
+</html>' > index.html
